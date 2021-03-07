@@ -5,7 +5,7 @@ public static void main(String args[]) {
 	Solution sol = new Solution();
 	int nums[] = { 3,1,2,3}; 
 	System.out.println(sol.solution(nums));
-	System.out.println("test");
+	
 }
 }
 
