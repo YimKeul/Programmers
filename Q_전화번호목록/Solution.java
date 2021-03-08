@@ -17,7 +17,16 @@ public class Solution {
 				}
 			}
 		}
-
+		//hashMap.containsKey : 키가 있는지 체크하기
+		//hashMap.containsValue : 값이 있는지 체크하기
+		/*
+		 * hashMap.put("A","aaa");
+		 * hashMap.put("B","bbb");
+		 * containsKey("A") -- 키가 있는지 확인
+		 * containsValue("aaa") -- value(값)이 있는지 확인
+		 * 
+		 * 
+		 * */
 		return answer;
 
 	}
